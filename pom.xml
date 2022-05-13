@@ -16,7 +16,7 @@
 	</parent>
 	<groupId>com.springdemos</groupId>
 	<artifactId>springboot-petclinic</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<name>springboot-petclinic</name>
 	<description>springboot-petclinic</description>
 	<properties>
@@ -56,7 +56,7 @@
 	<scm>
 		<url>https://github.com/Prabuddha21/springboot-petclinic</url>
 		<connection>scm:git:https://github.com/Prabuddha21/springboot-petclinic.git</connection>
-    <tag>0.0.4</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
